@@ -7,6 +7,9 @@ public class BasicJavaProgram {
 		System.out.println("Bye World");
 		System.out.println("My name is kavya");
 		System.out.println("My name is yuvaan");
+		System.out.println("My name is Sai");
+		System.out.println("My name is puppy");
+		System.out.println("My name is kitty");
 
 	}
 
