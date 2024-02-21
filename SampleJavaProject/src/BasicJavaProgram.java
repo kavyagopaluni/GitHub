@@ -10,10 +10,7 @@ public class BasicJavaProgram {
 		System.out.println("My name is Sai");
 		System.out.println("My name is puppy");
 		System.out.println("My name is kitty");
-		System.out.println("added from usa");
-		
-		
-		
+
 
 	}
 
